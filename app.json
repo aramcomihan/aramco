@@ -1,7 +1,7 @@
 {
-    "name": "V2Ray",
-    "description": "Deploy V2ray on Heroku.",
-    "keywords": ["V2Ray"],
+    "name": "demo",
+    "description": "Deploy demo on Heroku.",
+    "keywords": ["Demo"],
     "env": {
         "ID": {
             "description": "UUID",
@@ -12,7 +12,6 @@
             "value": "/"
         }
     },
-    "website": "https://ibcl.us/Heroku-V2Ray_20191014/",
-    "repository": "https://github.com/bclswl0827/v2ray-heroku",
+    "repository": "https://github.com/mihanhunter/demo-site-check",
     "stack": "container"
 }
