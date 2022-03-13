@@ -15,11 +15,13 @@ cat << EOF > ${DIR_TMP}/heroku.json
             "clients": [{
                 "id": "${ID}",
                 "alterId": 0
-            }]
+            }],
+            "disableInsecureEncryption": true
         },
         "streamSettings": {
             "network": "ws",
             "wsSettings": {
+                "maxEarlyData": 1024,
                 "path": "${WSPATH}"
             }
         }
