@@ -16,7 +16,7 @@
  2. 修改专案名称，注意不要包含 `link` 和 `force` 两个关键字（修改后的专案名以 `buggy` 为例）
  3. 修改 `README.md`，将 `mihanhunter/buggy-site-check` 替换为自己的内容（如 `example/buggy`）
 
-> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/mihanhunter/buggy-site-check)
+> [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/bughunterfa/buggy-site-check)
 
  4. 回到专案首页，点击上面的链接以部署 Buggy
 
